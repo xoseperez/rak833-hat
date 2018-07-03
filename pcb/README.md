@@ -21,9 +21,9 @@ You will need an SPI or SPI/USB (more expensive) RAK833 concentrator. RAK Wirele
 | AMS1117-3V3 | 1 | | [Aliexpress](https://www.aliexpress.com/item/10pcs-AMS1117-3-3-AMS1117-LM1117-1117-3-3V-1A-Voltage-Regulator/32348815272.html) | 0.03€ |
 | 10uF 6.3V Tantalum Capacitors | 2 | [PDF](https://www.mouser.es/datasheet/2/40/tps-776850.pdf) | [Mouser](https://www.mouser.es/ProductDetail/581-TPSR106K006R1500) | 0.60€ |
 | SMD DPDT switch | 1 | | [Aliexpress](https://www.aliexpress.com/item/5PCS-3-Position-6-Pins-DPDT-Panel-PCB-Mount-Mini-SMD-SMT-Slide-Switch-7x6x4mm/32553945435.html) | 0.69€ |
-| SMD push button | 1 | | | |
-| Raspberry Pi 3 (incl. power supply) | 1 | | | |
-| 20x2 2.54pitch header for Raspberry Pi | 1 | | | |
-| **TOTAL (SPI-only version)** | | | | 200€ |
+| SMD push button | 1 | | [Aliexpress](https://www.aliexpress.com/item/100PC-Lot-SMD-4-4-1-5MM-4X4X1-5MM-Tactile-Tact-Push-Button-Micro-Switch-Momentary/32623940621.html) | 0.01€ |
+| Raspberry Pi 3 | 1 | | | ~30€ |
+| 20x2 2.54pitch header for Raspberry Pi | 1 | | | ~0.25€ |
+| **TOTAL (SPI-only version)** | | | | **~150€** |
 
 (*) Prices are shown here for reference. They might change depending on your supplier. They also change depending on the number of units you buy. All prices excluding shipping or customs.
