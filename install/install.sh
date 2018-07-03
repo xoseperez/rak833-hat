@@ -8,23 +8,19 @@ if [ $UID != 0 ]; then
     exit 1
 fi
 
-VERSION="spi"
-if [[ $1 != "" ]]; then VERSION=$1; fi
-
-echo "The Things Network Gateway installer"
-echo "Version $VERSION"
+echo "The Things Network Gateway installer for the RAK833-Hat"
 
 # Update the gateway installer to the correct branch
 echo "Updating installer files..."
 OLD_HEAD=$(git rev-parse HEAD)
 git fetch
-git checkout -q $VERSION
+git checkout
 git pull
 NEW_HEAD=$(git rev-parse HEAD)
 
 if [[ $OLD_HEAD != $NEW_HEAD ]]; then
     echo "New installer found. Restarting process..."
-    exec "./install.sh" "$VERSION"
+    exec "./install.sh"
 fi
 
 # Request gateway configuration data
