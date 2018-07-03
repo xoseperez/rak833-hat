@@ -1,0 +1,11 @@
+# Eagle
+*.s$?
+*.b$?
+*.s#?
+*.b#?
+
+# PlatformIO
+.pio*
+
+# Atom
+*.gch

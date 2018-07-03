@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.7.0">
+<eagle version="9.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -824,13 +824,13 @@
 <wire x1="1.4" y1="0.4" x2="1.4" y2="1.2" width="0.127" layer="21"/>
 <rectangle x1="1.4" y1="0.4" x2="2.8" y2="1.2" layer="21"/>
 <smd name="A1" x="3.4" y="-1" dx="1" dy="1.6" layer="1" rot="R180"/>
-<smd name="C1" x="5.4" y="-1" dx="1" dy="1.6" layer="1" rot="R180"/>
-<smd name="B1" x="1.4" y="-1" dx="1" dy="1.6" layer="1" rot="R180"/>
-<smd name="B2" x="1.4" y="4.4" dx="1" dy="1.6" layer="1" rot="R180"/>
+<smd name="C1" x="5.7" y="-1" dx="1" dy="1.6" layer="1" rot="R180"/>
+<smd name="B1" x="1.1" y="-1" dx="1" dy="1.6" layer="1" rot="R180"/>
+<smd name="B2" x="1.1" y="4.4" dx="1" dy="1.6" layer="1" rot="R180"/>
 <smd name="A2" x="3.4" y="4.4" dx="1" dy="1.6" layer="1" rot="R180"/>
-<smd name="C2" x="5.4" y="4.4" dx="1" dy="1.6" layer="1" rot="R180"/>
-<hole x="2" y="1.8" drill="0.5"/>
-<hole x="4.8" y="1.8" drill="0.5"/>
+<smd name="C2" x="5.7" y="4.4" dx="1" dy="1.6" layer="1" rot="R180"/>
+<hole x="2" y="1.8" drill="0.762"/>
+<hole x="4.8" y="1.8" drill="0.762"/>
 </package>
 <package name="C0402">
 <description>&lt;b&gt;CAPACITOR&lt;/b&gt;</description>
@@ -3539,7 +3539,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROJECT_AUTHOR" value="XOSE PEREZ &lt;xose.perez@gmail.com&gt;"/>
 <attribute name="PROJECT_LICENSE" value="CC-SA-BY 4.0"/>
 <attribute name="PROJECT_NAME" value="RAK833 HAT"/>
-<attribute name="PROJECT_VERSION" value="0.1.20180529"/>
+<attribute name="PROJECT_VERSION" value="0.2.20180703"/>
 </attributes>
 <variantdefs>
 </variantdefs>
