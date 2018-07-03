@@ -2,7 +2,7 @@
 
 Reference setup for [The Things Network](http://thethingsnetwork.org/) gateways based on the RAK833 USB concentrator with a Raspberry Pi host using the RAK833 hat available in this same repository.
 
-> This documentation and installation procedure is based largely on [gonzalocasas](https://github.com/gonzalocasas) and [ttn-zh]((https://github.com/ttn-zh) installation procedure for the IMST iC880a with minor changes to make it compatible with the RAK833-hat for the RAK833 module by RAK Wireless.
+> This documentation and installation procedure is based largely on [gonzalocasas](https://github.com/gonzalocasas) and [ttn-zh](https://github.com/ttn-zh) installation procedure for the IMST iC880a with minor changes to make it compatible with the RAK833-hat for the RAK833 module by RAK Wireless.
 
 
 ## Setup based on Raspbian image
@@ -56,4 +56,4 @@ Reference setup for [The Things Network](http://thethingsnetwork.org/) gateways 
 
 # Credits
 
-Credits for [gonzalocasas](https://github.com/gonzalocasas) and [ttn-zh]((https://github.com/ttn-zh) for their installation procedure for the IMST iC880a. Also, that procedure is largely based on the awesome work by [Ruud Vlaming](https://github.com/devlaam) on the [Lorank8 installer](https://github.com/Ideetron/Lorank).
+Credits for [gonzalocasas](https://github.com/gonzalocasas) and [ttn-zh](https://github.com/ttn-zh) for their installation procedure for the IMST iC880a. Also, that procedure is largely based on the awesome work by [Ruud Vlaming](https://github.com/devlaam) on the [Lorank8 installer](https://github.com/Ideetron/Lorank).
